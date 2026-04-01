@@ -1,0 +1,174 @@
+{
+  "payment_methods": [
+    {
+      "method_id": "r0_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R0",
+      "owner_name": "Rider0",
+      "card_number": "**** **** **** 1000",
+      "expiration_date": "12/27",
+      "billing_address": "123 Main St"
+    },
+    {
+      "method_id": "r0_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R0",
+      "owner_name": "Rider0",
+      "wallet_provider": "Google",
+      "wallet_id": "rider0@gmail.com"
+    },
+    {
+      "method_id": "r1_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R1",
+      "owner_name": "Rider1",
+      "card_number": "**** **** **** 1001",
+      "expiration_date": "12/27",
+      "billing_address": "234 Main St"
+    },
+    {
+      "method_id": "r1_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R1",
+      "owner_name": "Rider1",
+      "wallet_provider": "Google",
+      "wallet_id": "rider1@gmail.com"
+    },
+    {
+      "method_id": "r2_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R2",
+      "owner_name": "Rider2",
+      "card_number": "**** **** **** 1002",
+      "expiration_date": "12/27",
+      "billing_address": "456 Main St"
+    },
+    {
+      "method_id": "r2_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R2",
+      "owner_name": "Rider2",
+      "wallet_provider": "Google",
+      "wallet_id": "rider2@gmail.com"
+    },
+    {
+      "method_id": "r3_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R3",
+      "owner_name": "Rider3",
+      "card_number": "**** **** **** 1003",
+      "expiration_date": "12/27",
+      "billing_address": "678 Main St"
+    },
+    {
+      "method_id": "r3_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R3",
+      "owner_name": "Rider3",
+      "wallet_provider": "Google",
+      "wallet_id": "rider3@gmail.com"
+    },
+    {
+      "method_id": "r4_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R4",
+      "owner_name": "Rider4",
+      "card_number": "**** **** **** 1004",
+      "expiration_date": "12/27",
+      "billing_address": "890 Main St"
+    },
+    {
+      "method_id": "r4_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R4",
+      "owner_name": "Rider4",
+      "wallet_provider": "Google",
+      "wallet_id": "rider4@gmail.com"
+    },
+    {
+      "method_id": "r5_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R5",
+      "owner_name": "Rider5",
+      "card_number": "**** **** **** 1005",
+      "expiration_date": "12/27",
+      "billing_address": "901 Main St"
+    },
+    {
+      "method_id": "r5_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R5",
+      "owner_name": "Rider5",
+      "wallet_provider": "Google",
+      "wallet_id": "rider5@gmail.com"
+    },
+    {
+      "method_id": "r6_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R6",
+      "owner_name": "Rider6",
+      "card_number": "**** **** **** 1006",
+      "expiration_date": "12/27",
+      "billing_address": "902 Main St"
+    },
+    {
+      "method_id": "r6_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R6",
+      "owner_name": "Rider6",
+      "wallet_provider": "Google",
+      "wallet_id": "rider6@gmail.com"
+    },
+    {
+      "method_id": "r7_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R7",
+      "owner_name": "Rider7",
+      "card_number": "**** **** **** 1007",
+      "expiration_date": "12/27",
+      "billing_address": "903 Main St"
+    },
+    {
+      "method_id": "r7_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R7",
+      "owner_name": "Rider7",
+      "wallet_provider": "Google",
+      "wallet_id": "rider7@gmail.com"
+    },
+    {
+      "method_id": "r8_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R8",
+      "owner_name": "Rider8",
+      "card_number": "**** **** **** 1008",
+      "expiration_date": "12/27",
+      "billing_address": "904 Main St"
+    },
+    {
+      "method_id": "r8_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R8",
+      "owner_name": "Rider8",
+      "wallet_provider": "Google",
+      "wallet_id": "rider8@gmail.com"
+    },
+    {
+      "method_id": "r9_card",
+      "type": "CreditCardPayment",
+      "owner_user_id": "R9",
+      "owner_name": "Rider9",
+      "card_number": "**** **** **** 1009",
+      "expiration_date": "12/27",
+      "billing_address": "905 Main St"
+    },
+    {
+      "method_id": "r9_wallet",
+      "type": "DigitalWalletPayment",
+      "owner_user_id": "R9",
+      "owner_name": "Rider9",
+      "wallet_provider": "Google",
+      "wallet_id": "rider9@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+    "riders": [
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                3,
+                3,
+                3,
+                3
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "English",
+                "prefers_self_driven": false
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "Spanish",
+                "prefers_self_driven": true
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "Italian",
+                "prefers_self_driven": false
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "Arabic",
+                "prefers_self_driven": false
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "French",
+                "prefers_self_driven": false
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "Japanese",
+                "prefers_self_driven": false
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "Arabic",
+                "prefers_self_driven": false
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "Italian",
+                "prefers_self_driven": false
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "Italian",
+                "prefers_self_driven": false
+            }
+        },
+        {
+            "user_id": "X",
+            "name": "X",
+            "ratings": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "current_location_id": 0,
+            "preference": {
+                "preferred_language": "Italian",
+                "prefers_self_driven": false
+            }
+        }
+    ]
+}

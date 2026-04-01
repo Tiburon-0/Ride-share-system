@@ -1,0 +1,1154 @@
+{
+  "drivers": [
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S000"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S001"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S002"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "HumanDrivenCar",
+        "year": "2025",
+        "make": "BMW",
+        "model": "X5",
+        "plate": "H000"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S003"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S004"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S005"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S006"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S007"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S008"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S009"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S010"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S011"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S012"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S013"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S014"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S015"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S016"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S017"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S018"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S019"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S020"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S021"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S022"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S023"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S024"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S025"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S026"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S027"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S028"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S029"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S030"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S031"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S032"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S033"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S034"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S035"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S036"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S037"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S038"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S039"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S040"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S041"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S042"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S043"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S044"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S045"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S046"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S047"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    },
+    {
+      "user_id": "X",
+      "name": "X",
+      "current_location_id": 1,
+      "car": {
+        "type": "SelfDrivenCar",
+        "year": "2025",
+        "make": "Tesla",
+        "model": "Model S",
+        "plate": "S048"
+      },
+      "ratings": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "preference": {
+        "min_rating": 3,
+        "max_distance": 100
+      },
+      "language": "X"
+    }
+  ]
+}

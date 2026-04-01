@@ -1,0 +1,84 @@
+{
+  "billing_info": [
+    {
+      "user_id": "R0",
+      "payment_method_ids": [
+        "r0_card",
+        "r0_wallet"
+      ],
+      "default_method_id": "r0_card"
+    },
+    {
+      "user_id": "R1",
+      "payment_method_ids": [
+        "r1_card",
+        "r1_wallet"
+      ],
+      "default_method_id": "r1_card"
+    },
+    {
+      "user_id": "R2",
+      "payment_method_ids": [
+        "r2_card",
+        "r2_wallet"
+      ],
+      "default_method_id": "r2_card"
+    },
+    {
+      "user_id": "R3",
+      "payment_method_ids": [
+        "r3_card",
+        "r3_wallet"
+      ],
+      "default_method_id": "r3_card"
+    },
+    {
+      "user_id": "R4",
+      "payment_method_ids": [
+        "r4_card",
+        "r4_wallet"
+      ],
+      "default_method_id": "r4_card"
+    },
+    {
+      "user_id": "R5",
+      "payment_method_ids": [
+        "r5_card",
+        "r5_wallet"
+      ],
+      "default_method_id": "r5_card"
+    },
+    {
+      "user_id": "R6",
+      "payment_method_ids": [
+        "r6_card",
+        "r6_wallet"
+      ],
+      "default_method_id": "r6_card"
+    },
+    {
+      "user_id": "R7",
+      "payment_method_ids": [
+        "r7_card",
+        "r7_wallet"
+      ],
+      "default_method_id": "r7_card"
+    },
+    {
+      "user_id": "R8",
+      "payment_method_ids": [
+        "r8_card",
+        "r8_wallet"
+      ],
+      "default_method_id": "r8_card"
+    },
+    {
+      "user_id": "R9",
+      "payment_method_ids": [
+        "r9_card",
+        "r9_wallet"
+      ],
+      "default_method_id": "r9_card"
+    }
+  ]
+}

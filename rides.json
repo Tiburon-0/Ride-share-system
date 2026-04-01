@@ -1,0 +1,220 @@
+{
+  "rides": [
+    {
+      "ride_id": "X",
+      "rider_id": "X",
+      "driver_id": "X",
+      "pickup_location_id": 0,
+      "dropoff_location_id": 0,
+      "status": "X",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_9",
+      "rider_id": "R9",
+      "driver_id": "D14",
+      "pickup_location_id": 74,
+      "dropoff_location_id": 74,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_9",
+      "rider_id": "R9",
+      "driver_id": "D6",
+      "pickup_location_id": 13,
+      "dropoff_location_id": 51,
+      "status": "Complete",
+      "fare_amount": 8.0
+    },
+    {
+      "ride_id": "Ride_greedy_9",
+      "rider_id": "R9",
+      "driver_id": "D17",
+      "pickup_location_id": 16,
+      "dropoff_location_id": 68,
+      "status": "Complete",
+      "fare_amount": 4.0
+    },
+    {
+      "ride_id": "Ride_greedy_0",
+      "rider_id": "R0",
+      "driver_id": "D25",
+      "pickup_location_id": 48,
+      "dropoff_location_id": 48,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_1",
+      "rider_id": "R1",
+      "driver_id": "D31",
+      "pickup_location_id": 29,
+      "dropoff_location_id": 29,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_2",
+      "rider_id": "R2",
+      "driver_id": "D49",
+      "pickup_location_id": 19,
+      "dropoff_location_id": 34,
+      "status": "Complete",
+      "fare_amount": 2.0
+    },
+    {
+      "ride_id": "Ride_greedy_3",
+      "rider_id": "R3",
+      "driver_id": "D38",
+      "pickup_location_id": 36,
+      "dropoff_location_id": 5,
+      "status": "Complete",
+      "fare_amount": 8.0
+    },
+    {
+      "ride_id": "Ride_greedy_4",
+      "rider_id": "R4",
+      "driver_id": "D19",
+      "pickup_location_id": 41,
+      "dropoff_location_id": 41,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_5",
+      "rider_id": "R5",
+      "driver_id": "D14",
+      "pickup_location_id": 14,
+      "dropoff_location_id": 66,
+      "status": "Complete",
+      "fare_amount": 4.0
+    },
+    {
+      "ride_id": "Ride_greedy_6",
+      "rider_id": "R6",
+      "driver_id": "D22",
+      "pickup_location_id": 58,
+      "dropoff_location_id": 58,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_7",
+      "rider_id": "R7",
+      "driver_id": "D45",
+      "pickup_location_id": 67,
+      "dropoff_location_id": 30,
+      "status": "Complete",
+      "fare_amount": 4.0
+    },
+    {
+      "ride_id": "Ride_greedy_8",
+      "rider_id": "R8",
+      "driver_id": "D41",
+      "pickup_location_id": 29,
+      "dropoff_location_id": 29,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_9",
+      "rider_id": "R9",
+      "driver_id": "D43",
+      "pickup_location_id": 48,
+      "dropoff_location_id": 18,
+      "status": "Complete",
+      "fare_amount": 6.0
+    },
+    {
+      "ride_id": "Ride_greedy_0",
+      "rider_id": "R0",
+      "driver_id": "D36",
+      "pickup_location_id": 89,
+      "dropoff_location_id": 22,
+      "status": "Complete",
+      "fare_amount": 8.0
+    },
+    {
+      "ride_id": "Ride_greedy_1",
+      "rider_id": "R1",
+      "driver_id": "D6",
+      "pickup_location_id": 21,
+      "dropoff_location_id": 21,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_2",
+      "rider_id": "R2",
+      "driver_id": "D27",
+      "pickup_location_id": 8,
+      "dropoff_location_id": 0,
+      "status": "Complete",
+      "fare_amount": 4.0
+    },
+    {
+      "ride_id": "Ride_greedy_3",
+      "rider_id": "R3",
+      "driver_id": "D31",
+      "pickup_location_id": 69,
+      "dropoff_location_id": 10,
+      "status": "Complete",
+      "fare_amount": 9.0
+    },
+    {
+      "ride_id": "Ride_greedy_4",
+      "rider_id": "R4",
+      "driver_id": "D22",
+      "pickup_location_id": 56,
+      "dropoff_location_id": 56,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_5",
+      "rider_id": "R5",
+      "driver_id": "D12",
+      "pickup_location_id": 72,
+      "dropoff_location_id": 29,
+      "status": "Complete",
+      "fare_amount": 12.0
+    },
+    {
+      "ride_id": "Ride_greedy_6",
+      "rider_id": "R6",
+      "driver_id": "D23",
+      "pickup_location_id": 78,
+      "dropoff_location_id": 14,
+      "status": "Complete",
+      "fare_amount": 4.0
+    },
+    {
+      "ride_id": "Ride_greedy_7",
+      "rider_id": "R7",
+      "driver_id": "D3",
+      "pickup_location_id": 46,
+      "dropoff_location_id": 45,
+      "status": "Complete",
+      "fare_amount": 8.0
+    },
+    {
+      "ride_id": "Ride_greedy_8",
+      "rider_id": "R8",
+      "driver_id": "D7",
+      "pickup_location_id": 50,
+      "dropoff_location_id": 4,
+      "status": "Complete",
+      "fare_amount": 9.0
+    },
+    {
+      "ride_id": "Ride_greedy_9",
+      "rider_id": "R9",
+      "driver_id": "D9",
+      "pickup_location_id": 26,
+      "dropoff_location_id": 26,
+      "status": "Complete",
+      "fare_amount": 0.0
+    }
+  ]
+}
