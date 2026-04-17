@@ -215,6 +215,96 @@
       "dropoff_location_id": 26,
       "status": "Complete",
       "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_0",
+      "rider_id": "R0",
+      "driver_id": "D31",
+      "pickup_location_id": 35,
+      "dropoff_location_id": 50,
+      "status": "Complete",
+      "fare_amount": 7.5
+    },
+    {
+      "ride_id": "Ride_greedy_1",
+      "rider_id": "R1",
+      "driver_id": "D16",
+      "pickup_location_id": 25,
+      "dropoff_location_id": 4,
+      "status": "Complete",
+      "fare_amount": 7.5
+    },
+    {
+      "ride_id": "Ride_greedy_2",
+      "rider_id": "R2",
+      "driver_id": "D24",
+      "pickup_location_id": 31,
+      "dropoff_location_id": 34,
+      "status": "Complete",
+      "fare_amount": 10.5
+    },
+    {
+      "ride_id": "Ride_greedy_3",
+      "rider_id": "R3",
+      "driver_id": "D38",
+      "pickup_location_id": 0,
+      "dropoff_location_id": 0,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_4",
+      "rider_id": "R4",
+      "driver_id": "D32",
+      "pickup_location_id": 69,
+      "dropoff_location_id": 17,
+      "status": "Complete",
+      "fare_amount": 9.0
+    },
+    {
+      "ride_id": "Ride_greedy_5",
+      "rider_id": "R5",
+      "driver_id": "D22",
+      "pickup_location_id": 56,
+      "dropoff_location_id": 56,
+      "status": "Complete",
+      "fare_amount": 0.0
+    },
+    {
+      "ride_id": "Ride_greedy_6",
+      "rider_id": "R6",
+      "driver_id": "D30",
+      "pickup_location_id": 25,
+      "dropoff_location_id": 4,
+      "status": "Complete",
+      "fare_amount": 7.5
+    },
+    {
+      "ride_id": "Ride_greedy_7",
+      "rider_id": "R7",
+      "driver_id": "D43",
+      "pickup_location_id": 22,
+      "dropoff_location_id": 87,
+      "status": "Complete",
+      "fare_amount": 6.0
+    },
+    {
+      "ride_id": "Ride_greedy_8",
+      "rider_id": "R8",
+      "driver_id": "D4",
+      "pickup_location_id": 37,
+      "dropoff_location_id": 72,
+      "status": "Complete",
+      "fare_amount": 2.0
+    },
+    {
+      "ride_id": "Ride_greedy_9",
+      "rider_id": "R9",
+      "driver_id": "D18",
+      "pickup_location_id": 87,
+      "dropoff_location_id": 72,
+      "status": "Complete",
+      "fare_amount": 4.0
     }
   ]
 }
